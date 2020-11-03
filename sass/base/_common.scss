@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+ }
+ 
+ *,
+ *::before,
+ *::after {
+   box-sizing: inherit;
+ }
+ 
+ 
+ body {
+   font-family: "Roboto", sans-serif;
+   font-family: "Raleway", sans-serif;
+   font-family: "Oleo Script", sans-serif;
+   font-style: normal;
+   margin: 0;
+ }
+
+ .list {
+    list-style: none;
+  }
+  
+  .link {
+    text-decoration: none;
+  }

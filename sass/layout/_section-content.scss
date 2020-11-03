@@ -1,0 +1,61 @@
+.section-content {
+    background: $text-decoration-color;
+    padding-top: 94px;
+    padding-bottom: 94px;
+    
+  }
+  
+  
+  .title-content {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.166;
+    letter-spacing: 0.03em;
+    color: $primary-text-color;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+   }
+  
+   .card {
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+    background: $primary-white-color;
+    margin-right: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+    &:last-child {
+      margin-right: 0;
+    }
+   }
+  
+   .people-pic {
+     display: block;
+   }
+  
+   .caption {
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: 500;
+     font-size: 16px;
+     line-height: 1.187;
+     letter-spacing: 0.03em;
+     color: $primary-text-color;
+     margin-top: 30px;
+     margin-bottom: 0;
+   }
+  
+   .desc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.187;
+    letter-spacing: 0.03em;
+    color: $second-color;
+    margin-bottom: 0;
+     
+  }
+  
+  
+  

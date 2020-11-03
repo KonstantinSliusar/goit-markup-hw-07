@@ -1,0 +1,169 @@
+
+.prefooter-icons {
+    padding-top: 94px;
+    padding-bottom: 94px;
+  }
+  
+  .client {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.166;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: $primary-text-color;
+    margin: 0;
+    margin-bottom: 50px;
+  }
+  
+  .social-bottom {
+    display: flex;
+    padding: 0;
+    margin: 0;
+   
+  }
+  
+  
+  .social-svg-one {
+    display: inline-block;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    width: 44.27px;
+    height: 49.23px;
+    transition: all 250ms linear;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    &:hover,
+    &:focus{
+    fill: $accent-color;
+    outline-color: $accent-color;
+  }
+}
+  
+  .social-svg-two {
+    display: inline-block;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    width: 40px;
+    height: 52px;
+    transition: all 250ms linear;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    &:hover,
+    &:focus{
+    fill: $accent-color;
+    outline-color: $accent-color;
+  }
+}
+  
+  .social-svg-three {
+    display: inline-block;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    width: 41px;
+    height: 42.6px;
+    transition: all 250ms linear;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    &:hover,
+    &:focus{
+    fill: $accent-color;
+    outline-color: $accent-color;
+  }
+}
+  
+  .social-svg-four {
+    display: inline-block;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    width: 79.66px;
+    height: 42.02px;
+    transition: all 250ms linear;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    &:hover,
+    &:focus{
+    fill: $accent-color;
+    outline-color: $accent-color;
+  }
+}
+  
+  .social-svg-five {
+    display: inline-block;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    width: 59px;
+    height: 47px;
+    transition: all 250ms linear;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    &:hover,
+    &:focus{
+    fill: $accent-color;
+    outline-color: $accent-color;
+  }
+}
+  
+  .social-svg-six {
+    display: inline-block;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    width: 88.48px;
+    height: 45.44px;
+    transition: all 250ms linear;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    &:hover,
+    &:focus{
+    fill: $accent-color;
+    outline-color: $accent-color;
+  }
+}
+  
+  .social-icon-bottom {
+    margin-right: 30px;
+    outline-color: $accent-color;
+    transition: all 250ms linear;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    &:focus {
+      background:none;
+      outline-color: $accent-color;
+    }
+  }
+
+  
+  .down-icon {
+    transition: all 250ms linear;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    &:hover,
+    &:focus {
+      color: $accent-color;
+      outline-color: $accent-color;
+    }
+  }
+  
+  .social-icon-bottom:last-child {
+    margin-right: 0;
+  }
+  
+  .bottom-icon {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    border: 1px solid;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 170px;
+    height: 90px;
+    color: $border-color;
+    transition: all 250ms linear;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    &:hover,
+    &:focus{
+      color: $accent-color;
+      outline-color: $accent-color;
+    }
+  }
+  
+  

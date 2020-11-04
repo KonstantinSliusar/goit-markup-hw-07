@@ -31,9 +31,6 @@ html {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
-  font-family: "Raleway", sans-serif;
-  font-family: "Oleo Script", sans-serif;
   font-style: normal;
   margin: 0;
 }
@@ -402,7 +399,7 @@ li {
 
 .logo {
   display: inline-block;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
@@ -422,7 +419,7 @@ li {
 }
 
 .web {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
@@ -442,7 +439,7 @@ span {
 
 .navigation-list .link-menu {
   display: block;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -488,7 +485,7 @@ span {
   flex-direction: row-reverse;
   justify-content: space-between;
   align-items: center;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -526,7 +523,7 @@ span {
   flex-direction: row-reverse;
   justify-content: space-between;
   align-items: center;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -579,7 +576,7 @@ span {
 }
 
 h1 {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
@@ -617,7 +614,7 @@ h1 {
 }
 
 .subtitle-text {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-size: 14px;
   line-height: 1.714;
@@ -723,7 +720,7 @@ ul.list {
 }
 
 .subscr-text {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -771,7 +768,7 @@ ul.list {
 }
 
 .caption {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -783,7 +780,7 @@ ul.list {
 }
 
 .desc {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -799,7 +796,7 @@ ul.list {
 }
 
 .client {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
@@ -967,7 +964,7 @@ footer {
 
 .logo-bottom {
   display: inline-block;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
@@ -979,7 +976,7 @@ footer {
 }
 
 .logo-bottom span {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
@@ -993,7 +990,7 @@ footer {
 }
 
 .text-desc {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-size: 14px;
   line-height: 1.714;
@@ -1009,7 +1006,7 @@ address {
 
 .link-item {
   display: inline-block;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-size: 14px;
   line-height: 1.714;
@@ -1029,7 +1026,7 @@ ul.list-footer {
 }
 
 .footer-caption {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -1105,7 +1102,7 @@ ul.list-footer {
 
 .submit-text-footer {
   display: inline-flex;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -1125,7 +1122,7 @@ ul.list-footer {
 .send-form-mail {
   width: 358px;
   height: 50px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -1152,7 +1149,7 @@ ul.list-footer {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
   border: none;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -1191,7 +1188,7 @@ ul.main-btn {
 .btn-link {
   display: inline-block;
   min-height: 38px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -1300,7 +1297,7 @@ li.hero-pic:nth-child(9) {
 }
 
 .headline-text {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -1379,7 +1376,7 @@ li.hero-pic:nth-child(9) {
   left: 24px;
   right: 24px;
   bottom: 63px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -1395,7 +1392,7 @@ li.hero-pic:nth-child(9) {
 }
 
 .modal-caption {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 20px;

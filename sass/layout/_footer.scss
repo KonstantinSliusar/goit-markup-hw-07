@@ -8,7 +8,7 @@ footer {
    
   .logo-bottom {
     display: inline-block;
-    font-family: Raleway;
+    font-family: $second-font;
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
@@ -18,7 +18,7 @@ footer {
     text-decoration: none;
     margin-bottom: 20px;
     span{
-      font-family: Raleway;
+      font-family: $second-font;
       font-style: normal;
       font-weight: bold;
       font-size: 26px;
@@ -34,7 +34,7 @@ footer {
   
   
     .text-desc {
-    font-family: Roboto;
+    font-family:$main-font;
     font-style: normal;
     font-size: 14px;
     line-height: 1.714;
@@ -50,7 +50,7 @@ footer {
   
    .link-item {
     display: inline-block;
-    font-family: Roboto;
+    font-family: $main-font;
     font-style: normal;
     font-size: 14px;
     line-height: 1.714;
@@ -71,7 +71,7 @@ footer {
   }
   
   .footer-caption {
-    font-family: Roboto;
+    font-family: $main-font;
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
@@ -150,7 +150,7 @@ footer {
   
   .submit-text-footer {
     display: inline-flex;
-    font-family: Roboto;
+    font-family: $main-font;
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
@@ -170,7 +170,7 @@ footer {
    &-mail {
     width: 358px;
     height: 50px;
-    font-family: Roboto;
+    font-family: $main-font;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -200,7 +200,7 @@ footer {
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     border:none;
-    font-family: Roboto;
+    font-family: $main-font;
     font-style: normal;
     font-weight: 700;
     font-size: 16px;

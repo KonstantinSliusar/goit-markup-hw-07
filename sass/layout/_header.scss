@@ -42,7 +42,7 @@ li {
   
 .logo {
   display: inline-block;
-  font-family: Raleway;
+  font-family: $second-font;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
@@ -63,7 +63,7 @@ li {
   
   
 .web {
-  font-family: Raleway;
+  font-family: $second-font;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
@@ -85,7 +85,7 @@ span {
   
 .navigation-list .link-menu {
   display: block;
-  font-family: Roboto;
+  font-family: $main-font;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -134,7 +134,7 @@ span {
     flex-direction: row-reverse;
     justify-content: space-between;
     align-items: center;
-    font-family: Roboto;
+    font-family: $main-font;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -172,7 +172,7 @@ span {
   flex-direction: row-reverse;
   justify-content: space-between;
   align-items: center;
-  font-family: Roboto;
+  font-family: $main-font;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
